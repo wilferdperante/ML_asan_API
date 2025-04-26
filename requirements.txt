@@ -3,3 +3,5 @@ joblib
 numpy
 scikit-learn
 gunicorn
+flask-restx
+flask-swagger-ui
