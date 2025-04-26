@@ -1,7 +1,8 @@
 flask
-joblib
-numpy
-scikit-learn
-gunicorn
 flask-restx
-flask-swagger-ui
+pandas
+scikit-learn
+numpy
+requests
+gunicorn
+joblib
